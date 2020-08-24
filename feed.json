@@ -1,0 +1,202 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Michael Behan",
+	"icon": "https://micro.blog/mbehan/avatar.jpg",
+	"home_page_url": "https://micro.mbehan.com/",
+	"feed_url": "https://micro.mbehan.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://mbehan.micro.blog/2020/08/20/all-the-way.html",
+				
+				"content_html": "<p>All The Way</p>\n\n<p><a href=\"https://micro.mbehan.com/uploads/2020/bf0c7f48ed.jpg\"><img src=\"uploads/2020/bf0c7f48ed.jpg\" width=\"4819.0\" height=\"3011.0\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.mbehan.com/uploads/2020/3f86f91965.jpg\"><img src=\"uploads/2020/3f86f91965.jpg\" width=\"3427.0\" height=\"2564.0\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "All The Way\n\n<a href=\"https://micro.mbehan.com/uploads/2020/bf0c7f48ed.jpg\"><img src=\"uploads/2020/bf0c7f48ed.jpg\" width=\"4819.0\" height=\"3011.0\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.mbehan.com/uploads/2020/3f86f91965.jpg\"><img src=\"uploads/2020/3f86f91965.jpg\" width=\"3427.0\" height=\"2564.0\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-08-20T20:04:28+01:00",
+				"url": "https://micro.mbehan.com/2020/08/20/all-the-way.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/08/01/195151.html",
+				
+				"content_html": "<p><a href=\"https://micro.mbehan.com/uploads/2020/31ce7e6076.jpg\"><img src=\"uploads/2020/31ce7e6076.jpg\" width=\"380\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "\n\n<a href=\"https://micro.mbehan.com/uploads/2020/31ce7e6076.jpg\"><img src=\"uploads/2020/31ce7e6076.jpg\" width=\"380\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-01T19:51:51+01:00",
+				"url": "https://micro.mbehan.com/2020/08/01/195151.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/07/29/135059.html",
+				
+				"content_html": "<p><a href=\"https://micro.mbehan.com/uploads/2020/a732d2f4a1.jpg\"><img src=\"uploads/2020/a732d2f4a1.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "\n\n<a href=\"https://micro.mbehan.com/uploads/2020/a732d2f4a1.jpg\"><img src=\"uploads/2020/a732d2f4a1.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-07-29T13:50:59+01:00",
+				"url": "https://micro.mbehan.com/2020/07/29/135059.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/07/22/i-do-miss.html",
+				
+				"content_html": "<p>I do miss some of the lunch options near the office, but being able to this for lunch is pretty special.</p>\n\n<p><a href=\"https://micro.mbehan.com/uploads/2020/c03e07102a.jpg\"><img src=\"uploads/2020/c03e07102a.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "I do miss some of the lunch options near the office, but being able to this for lunch is pretty special.\n\n<a href=\"https://micro.mbehan.com/uploads/2020/c03e07102a.jpg\"><img src=\"uploads/2020/c03e07102a.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-07-22T16:42:28+01:00",
+				"url": "https://micro.mbehan.com/2020/07/22/i-do-miss.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/07/06/squishy-blobs-as.html",
+				
+				"content_html": "<p>Squishy blobs as far as the eye can see. Pleurobrachia pileus, maybe.</p>\n\n<p><a href=\"https://micro.mbehan.com/uploads/2020/497058000a.jpg\"><img src=\"uploads/2020/497058000a.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Squishy blobs as far as the eye can see. Pleurobrachia pileus, maybe.\n\n<a href=\"https://micro.mbehan.com/uploads/2020/497058000a.jpg\"><img src=\"uploads/2020/497058000a.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-07-06T23:08:24+01:00",
+				"url": "https://micro.mbehan.com/2020/07/06/squishy-blobs-as.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/06/28/211339.html",
+				
+				"content_html": "<p><a href=\"https://micro.mbehan.com/uploads/2020/a7452cd783.jpg\"><img src=\"uploads/2020/a7452cd783.jpg\" width=\"600\" height=\"323\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "\n\n<a href=\"https://micro.mbehan.com/uploads/2020/a7452cd783.jpg\"><img src=\"uploads/2020/a7452cd783.jpg\" width=\"600\" height=\"323\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-06-28T21:13:39+01:00",
+				"url": "https://micro.mbehan.com/2020/06/28/211339.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/06/27/this-makes-me.html",
+				
+				"content_html": "<p>This makes me happier than it should</p>\n\n<p><img src=\"uploads/2020/6c5ac22dfe.png\" width=\"600\" height=\"77\" alt=\"Screenshot of email forwarding rule, hey@mbehan.com forwards to mbehan@hey.com\" /></p>\n",
+				"content_text": "This makes me happier than it should\n\n<img src=\"uploads/2020/6c5ac22dfe.png\" width=\"600\" height=\"77\" alt=\"Screenshot of email forwarding rule, hey@mbehan.com forwards to mbehan@hey.com\" />\n",
+				"date_published": "2020-06-27T22:03:40+01:00",
+				"url": "https://micro.mbehan.com/2020/06/27/this-makes-me.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/06/21/i-came-across.html",
+				
+				"content_html": "<p>I came across this photo today of my early 2010 work desk. I miss that interface builder, before it became part of Xcode. Back when you could make “pixel perfect” 320 * 480 apps. It’s funny that I can recall those dimensions off the top of my head, I’d have to google it if I wanted to know the dimensions of the iPhone X screen I’m typing this on.</p>\n\n<p>I also kinda miss that dell monitor, I forget what size it was exactly, but it was big enough and that 4:3 aspect ratio is rare now. I took that from my parents house when I moved out. It weighed a lot, my arm ached the day I quit that job and lugged it home, walking through town.</p>\n\n<p>I don’t remember why I had my windows laptop there but I remember I usually did, and that I loved that tiny Sony Vaio, still probably the favourite laptop I’ve ever owned.</p>\n\n<p><img src=\"uploads/2020/a0987b3ed7.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I came across this photo today of my early 2010 work desk. I miss that interface builder, before it became part of Xcode. Back when you could make “pixel perfect” 320 * 480 apps. It’s funny that I can recall those dimensions off the top of my head, I’d have to google it if I wanted to know the dimensions of the iPhone X screen I’m typing this on. \n\nI also kinda miss that dell monitor, I forget what size it was exactly, but it was big enough and that 4:3 aspect ratio is rare now. I took that from my parents house when I moved out. It weighed a lot, my arm ached the day I quit that job and lugged it home, walking through town.\n\nI don’t remember why I had my windows laptop there but I remember I usually did, and that I loved that tiny Sony Vaio, still probably the favourite laptop I’ve ever owned.\n\n<img src=\"uploads/2020/a0987b3ed7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-06-21T21:40:39+01:00",
+				"url": "https://micro.mbehan.com/2020/06/21/i-came-across.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/06/19/215144.html",
+				
+				"content_html": "<p><a href=\"https://micro.mbehan.com/uploads/2020/d3815dc811.jpg\"><img src=\"uploads/2020/d3815dc811.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.mbehan.com/uploads/2020/98e3a0e810.jpg\"><img src=\"uploads/2020/98e3a0e810.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.mbehan.com/uploads/2020/8cfcaf39d2.jpg\"><img src=\"uploads/2020/8cfcaf39d2.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.mbehan.com/uploads/2020/8fdd1367a6.jpg\"><img src=\"uploads/2020/8fdd1367a6.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "\n\n<a href=\"https://micro.mbehan.com/uploads/2020/d3815dc811.jpg\"><img src=\"uploads/2020/d3815dc811.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.mbehan.com/uploads/2020/98e3a0e810.jpg\"><img src=\"uploads/2020/98e3a0e810.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.mbehan.com/uploads/2020/8cfcaf39d2.jpg\"><img src=\"uploads/2020/8cfcaf39d2.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.mbehan.com/uploads/2020/8fdd1367a6.jpg\"><img src=\"uploads/2020/8fdd1367a6.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-06-19T21:51:44+01:00",
+				"url": "https://micro.mbehan.com/2020/06/19/215144.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/06/15/200253.html",
+				
+				"content_html": "<p><a href=\"https://micro.mbehan.com/uploads/2020/db2b20ab27.jpg\"><img src=\"uploads/2020/db2b20ab27.jpg\" width=\"550\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.mbehan.com/uploads/2020/ede2675d75.jpg\"><img src=\"uploads/2020/ede2675d75.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "\n\n<a href=\"https://micro.mbehan.com/uploads/2020/db2b20ab27.jpg\"><img src=\"uploads/2020/db2b20ab27.jpg\" width=\"550\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.mbehan.com/uploads/2020/ede2675d75.jpg\"><img src=\"uploads/2020/ede2675d75.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-06-15T20:02:53+01:00",
+				"url": "https://micro.mbehan.com/2020/06/15/200253.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/28/210112.html",
+				
+				"content_html": "<p><a href=\"https://micro.mbehan.com/uploads/2020/7280493b91.jpg\"><img src=\"uploads/2020/7280493b91.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "\n\n<a href=\"https://micro.mbehan.com/uploads/2020/7280493b91.jpg\"><img src=\"uploads/2020/7280493b91.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-28T21:01:12+01:00",
+				"url": "https://micro.mbehan.com/2020/05/28/210112.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/24/203612.html",
+				
+				"content_html": "<p><a href=\"https://micro.mbehan.com/uploads/2020/766033ee46.jpg\"><img src=\"uploads/2020/766033ee46.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "\n\n<a href=\"https://micro.mbehan.com/uploads/2020/766033ee46.jpg\"><img src=\"uploads/2020/766033ee46.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-24T20:36:12+01:00",
+				"url": "https://micro.mbehan.com/2020/05/24/203612.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/20/was-thinking-of.html",
+				
+				"content_html": "<p>Was thinking of the various different tech stacks I&rsquo;ve worked on in my career, because I was about to say that X was my favourite (after iOS, obviously!)  but it turns out I&rsquo;ve really liked everything I&rsquo;ve worked on. My brief stint as a PHP developer stands out as the least happy part of my career but I think the PHP was fine in retrospect, it was the company and the project I didn&rsquo;t like.</p>\n\n<p>I suppose it turns out I just love programming and I&rsquo;ve been incredibly fortunate to have a career doing it, making some interesting things with nice people along the way.</p>\n",
+				"content_text": "Was thinking of the various different tech stacks I've worked on in my career, because I was about to say that X was my favourite (after iOS, obviously!)  but it turns out I've really liked everything I've worked on. My brief stint as a PHP developer stands out as the least happy part of my career but I think the PHP was fine in retrospect, it was the company and the project I didn't like. \n\nI suppose it turns out I just love programming and I've been incredibly fortunate to have a career doing it, making some interesting things with nice people along the way.\n",
+				"date_published": "2020-05-20T16:32:48+01:00",
+				"url": "https://micro.mbehan.com/2020/05/20/was-thinking-of.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/17/just-got-done.html",
+				
+				"content_html": "<p>Just got done getting the Kano Star Wars coding kit set up and doing the first set of coding challenges with the 7 year old. We both really enjoyed it, would recommend.</p>\n\n<p><a href=\"https://mbehan.micro.blog/uploads/2020/7084d10a30.jpg\"><img src=\"uploads/2020/7084d10a30.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Just got done getting the Kano Star Wars coding kit set up and doing the first set of coding challenges with the 7 year old. We both really enjoyed it, would recommend.\n\n<a href=\"https://mbehan.micro.blog/uploads/2020/7084d10a30.jpg\"><img src=\"uploads/2020/7084d10a30.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-17T15:50:59+01:00",
+				"url": "https://micro.mbehan.com/2020/05/17/just-got-done.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/15/head-downstairs-for.html",
+				
+				"content_html": "<p>Head downstairs for a break from all the work zoom calls, see if I can help with the homeschooling for a bit, aaand he’s on Zoom.</p>\n\n<p><a href=\"https://mbehan.micro.blog/uploads/2020/5ba9701340.jpg\"><img src=\"uploads/2020/5ba9701340.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Head downstairs for a break from all the work zoom calls, see if I can help with the homeschooling for a bit, aaand he’s on Zoom.\n\n<a href=\"https://mbehan.micro.blog/uploads/2020/5ba9701340.jpg\"><img src=\"uploads/2020/5ba9701340.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-15T19:32:55+01:00",
+				"url": "https://micro.mbehan.com/2020/05/15/head-downstairs-for.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/12/there-was-a.html",
+				
+				"content_html": "<p>There was a thing on the beach</p>\n\n<p><a href=\"https://mbehan.micro.blog/uploads/2020/7861931756.jpg\"><img src=\"uploads/2020/7861931756.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/be79c3859b.jpg\"><img src=\"uploads/2020/be79c3859b.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "There was a thing on the beach\n\n<a href=\"https://mbehan.micro.blog/uploads/2020/7861931756.jpg\"><img src=\"uploads/2020/7861931756.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/be79c3859b.jpg\"><img src=\"uploads/2020/be79c3859b.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-12T21:28:06+01:00",
+				"url": "https://micro.mbehan.com/2020/05/12/there-was-a.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/09/evening-walk.html",
+				
+				"content_html": "<p>Evening walk</p>\n\n<p><a href=\"https://mbehan.micro.blog/uploads/2020/ab8efd5cd3.jpg\"><img src=\"uploads/2020/ab8efd5cd3.jpg\" width=\"600\" height=\"291\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/02f69d8fae.jpg\"><img src=\"uploads/2020/02f69d8fae.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/6c92be91cb.jpg\"><img src=\"uploads/2020/6c92be91cb.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Evening walk \n\n<a href=\"https://mbehan.micro.blog/uploads/2020/ab8efd5cd3.jpg\"><img src=\"uploads/2020/ab8efd5cd3.jpg\" width=\"600\" height=\"291\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/02f69d8fae.jpg\"><img src=\"uploads/2020/02f69d8fae.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/6c92be91cb.jpg\"><img src=\"uploads/2020/6c92be91cb.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-09T21:20:27+01:00",
+				"url": "https://micro.mbehan.com/2020/05/09/evening-walk.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/07/191045.html",
+				
+				"content_html": "<p><a href=\"https://mbehan.micro.blog/uploads/2020/cdb54b6888.jpg\"><img src=\"uploads/2020/cdb54b6888.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/1362e0fb8f.jpg\"><img src=\"uploads/2020/1362e0fb8f.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "\n\n<a href=\"https://mbehan.micro.blog/uploads/2020/cdb54b6888.jpg\"><img src=\"uploads/2020/cdb54b6888.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/1362e0fb8f.jpg\"><img src=\"uploads/2020/1362e0fb8f.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-07T19:10:45+01:00",
+				"url": "https://micro.mbehan.com/2020/05/07/191045.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/06/the-hill.html",
+				
+				"content_html": "<p>The hill</p>\n\n<p><a href=\"https://mbehan.micro.blog/uploads/2020/9c3b2c1b97.jpg\"><img src=\"uploads/2020/9c3b2c1b97.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "The hill\n\n<a href=\"https://mbehan.micro.blog/uploads/2020/9c3b2c1b97.jpg\"><img src=\"uploads/2020/9c3b2c1b97.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-06T21:42:14+01:00",
+				"url": "https://micro.mbehan.com/2020/05/06/the-hill.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/05/as-a-father.html",
+				
+				"content_html": "<p>As a father to two Americans, today we celebrate cultural appropriation</p>\n\n<p><a href=\"https://mbehan.micro.blog/uploads/2020/635d89f4b6.jpg\"><img src=\"uploads/2020/635d89f4b6.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "As a father to two Americans, today we celebrate cultural appropriation \n\n<a href=\"https://mbehan.micro.blog/uploads/2020/635d89f4b6.jpg\"><img src=\"uploads/2020/635d89f4b6.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-05T17:28:22+01:00",
+				"url": "https://micro.mbehan.com/2020/05/05/as-a-father.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/04/covid-camping.html",
+				
+				"content_html": "<p>Covid Camping</p>\n\n<p><img src=\"uploads/2020/48dba3e2c7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Covid Camping \n\n<img src=\"uploads/2020/48dba3e2c7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-05-04T19:34:42+01:00",
+				"url": "https://micro.mbehan.com/2020/05/04/covid-camping.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/03/chocolate-cake-today.html",
+				
+				"content_html": "<p>Chocolate cake today 🍰</p>\n\n<p><a href=\"https://mbehan.micro.blog/uploads/2020/38aa1e7f0e.jpg\"><img src=\"uploads/2020/38aa1e7f0e.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/8774eef48d.jpg\"><img src=\"uploads/2020/8774eef48d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/f743e9028a.jpg\"><img src=\"uploads/2020/f743e9028a.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Chocolate cake today 🍰 \n\n<a href=\"https://mbehan.micro.blog/uploads/2020/38aa1e7f0e.jpg\"><img src=\"uploads/2020/38aa1e7f0e.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/8774eef48d.jpg\"><img src=\"uploads/2020/8774eef48d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/f743e9028a.jpg\"><img src=\"uploads/2020/f743e9028a.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-03T14:54:59+01:00",
+				"url": "https://micro.mbehan.com/2020/05/03/chocolate-cake-today.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/02/our-first-bread.html",
+				
+				"content_html": "<p>Our first bread attempt 🍞</p>\n\n<p><a href=\"https://mbehan.micro.blog/uploads/2020/5f32e88ae6.jpg\"><img src=\"uploads/2020/5f32e88ae6.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/087cb6b8b4.jpg\"><img src=\"uploads/2020/087cb6b8b4.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/6bdc09bb48.jpg\"><img src=\"uploads/2020/6bdc09bb48.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Our first bread attempt 🍞\n\n<a href=\"https://mbehan.micro.blog/uploads/2020/5f32e88ae6.jpg\"><img src=\"uploads/2020/5f32e88ae6.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/087cb6b8b4.jpg\"><img src=\"uploads/2020/087cb6b8b4.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://mbehan.micro.blog/uploads/2020/6bdc09bb48.jpg\"><img src=\"uploads/2020/6bdc09bb48.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-02T10:54:18+01:00",
+				"url": "https://micro.mbehan.com/2020/05/02/our-first-bread.html"
+			},
+			{
+				"id": "http://mbehan.micro.blog/2020/05/01/204751.html",
+				
+				"content_html": "<p><a href=\"https://mbehan.micro.blog/uploads/2020/47406d8b03.jpg\"><img src=\"uploads/2020/47406d8b03.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "\n\n<a href=\"https://mbehan.micro.blog/uploads/2020/47406d8b03.jpg\"><img src=\"uploads/2020/47406d8b03.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-01T20:47:51+01:00",
+				"url": "https://micro.mbehan.com/2020/05/01/204751.html"
+			}
+	]
+}
